@@ -489,6 +489,50 @@ ORDER BY 1 ASC;
 SELECT * FROM TB_ALUNOS 
 ORDER BY 1 DESC;
 
+/* 
+	Aula 64 - Mudando o delimitador 
+de fechamento de instrução de (;) para ($).
+			
+ */
+ 
+ /* COMANDO PARA EXIBIR DETALHES DO SERVIDOR */
+ STATUS 
+ 
+/* MUDANDO O DELIMITADOR PARA ($)*/
+
+DELIMITER $
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
